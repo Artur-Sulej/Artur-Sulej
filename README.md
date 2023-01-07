@@ -1,4 +1,6 @@
-### Hi there 👋
+I enjoy DIY and creating stuff. Programming for me is one of those things but without creating mess at home. I also enjoy motorcycling and coffee brewing. 
+I started my career as an Android developer, moved to Ruby and fell in love with Elixir and functional programming.
+I'm a happy husband and dad. 
 
 <!--
 **Artur-Sulej/Artur-Sulej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
