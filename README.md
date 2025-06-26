@@ -1,11 +1,11 @@
-Hey there! My name is Artur. Over the past decade, I’ve honed my skills as a software engineer, tackling projects of various scales and complexities. 
-I started my career as an Android developer before moving on to backend with Ruby and Elixir. Finally Rust became my current language of choice. 
+#### 👋 Hey, I’m Artur
+I’m a software engineer who’s been building things for over a decade – starting in Android (Java), moving through Ruby and Elixir, and now diving into Rust.
 
-I authored a static code analysis tool for Elixir that detects potentially unsafe operations in database migrations, [excellent_migrations](https://github.com/artur-sulej/excellent_migrations).
+Along the way, I created [excellent_migrations](https://github.com/artur-sulej/excellent_migrations), a static analysis tool for Elixir that helps you detect unsafe operations in database migrations and deploy without surprises.
 
-I’m passionate about DIY projects and anything creative. Programming is my way of bringing my ideas to life without making a mess at home. When I’m not working, you can find me spending quality time and traveling with my family as a happy husband and dad.
+I like DIY projects and anything creative. Programming lets me bring ideas to life without making a mess at home 😄
 
-I also give talks – you can find them here:
+I also enjoy sharing what I learn – check out a few of the talks I’ve given:
 
 | Title                                          | Event                | Details                      | Links                                                                                                                                                                                                                  |
 |------------------------------------------------|----------------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
