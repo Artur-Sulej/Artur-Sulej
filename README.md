@@ -1,7 +1,10 @@
 #### 👋 Hey, I’m Artur
-I’m a software engineer who’s been building things for over a decade – starting in Android (Java), moving through Ruby and Elixir, and now diving into Rust.
+I’m a software engineer who’s been building things for over a decade – starting in Android (Java), moving through Ruby and Elixir and now diving into Rust.
 
-Along the way, I created [excellent_migrations](https://github.com/artur-sulej/excellent_migrations), a static analysis tool for Elixir that helps you detect unsafe operations in database migrations and deploy without surprises.
+Along the way, I created some open source: 
+* [excellent_migrations](https://github.com/artur-sulej/excellent_migrations) – a static analysis tool for Elixir that detects unsafe operations in DB migrations to deploy without surprises
+* [reqwest-replay](https://github.com/Artur-Sulej/reqwest-replay) – Rust library to record & replay HTTP calls with `reqwest`
+* [Rust eBooks Nightly](https://github.com/Artur-Sulej/rust-ebooks) – automatic daily eBook builds of popular Rust books in EPUB, AZW3, MOBI, PDF formats 
 
 I like DIY projects and anything creative. Programming lets me bring ideas to life without making a mess at home 😄
 
